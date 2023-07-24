@@ -1,6 +1,48 @@
 .App {
   text-align: center;
 }
+* {
+  background-color: palevioletred;
+  
+}
+p {
+  color: red;
+}
+#btn1 {
+  background-color: orange;
+}
+#btn2 {
+  background-color: red;
+}
+table {
+  width: 100%;
+  text-align: center;
+  border-collapse: collapse;
+}
+h1, h4 {
+  text-align: center;
+  text-decoration: underline;
+}
+form {
+  text-align: center;
+}
+label {
+  padding: 10px;
+  font-weight: bold;
+  font-size: 20px;
+}
+.psd {
+  margin-left: 58px ;
+}
+input {
+  margin-left: 30px;
+  width: 500px;
+}
+button {
+  background-color: green;
+  border-radius: 20px;
+  width: 100px;
+}
 
 .App-logo {
   height: 40vmin;
